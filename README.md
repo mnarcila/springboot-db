@@ -8,6 +8,7 @@ technologies:
 -docker
 -swagger-Codegen
 -Eclipse IDE
+-mysql
 
 
 Test project generated with swagger-codegen from openapi 2.0 (swagger ). Compile on a local docker instance from eclipse IDE with the sentence docker:build
